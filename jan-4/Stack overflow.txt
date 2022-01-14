@@ -1,0 +1,26 @@
+1. Functional requirement
+  a) user (CRUD)
+  b) Question (CRUD) / blogs
+  c) Answer (CRUD) // comments
+  d) tags
+  e) Upvote/Downvote
+  f) Question sorted by(recent,hot,week,month)
+  g) Question searched by user_name tag ,most popular
+  h) creating team
+
+2. Non-functional
+   a) scalability
+   b) ACID
+
+3. this can be in additional -> 
+  a) search for job(companies,jobs)
+  b)newsletter
+
+  
+4. schema Design 
+  1) user
+      user_id
+      user_name
+      email
+      password
+  2) Question/blog
